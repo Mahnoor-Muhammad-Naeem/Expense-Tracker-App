@@ -19,6 +19,8 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Use **Priority** (Urgent/High/Normal), **Status** (TO DO / In Progress / Done).
 - Track **Time estimate** vs **Time tracked** to manage capacity.
 
+
+![Task Creation](task.png)
 <!-- If you have a status/priority screenshot, add it here with the right filename in screenshots/ -->
 
 ---
