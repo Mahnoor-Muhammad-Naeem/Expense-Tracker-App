@@ -37,7 +37,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Confirm access & permissions**
   - **Collect feedback & adjust configuration**
 
-![Implementation Stage](ce9375b1-f7a3-4b11-8841-70054b391267.png)
+![Implementation Stage](implementation stage.png)
 
 ---
 
@@ -47,7 +47,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Assign troubleshooting POC**
   - **Monitor usage & adoption weekly**
 
-![Monitoring & Control](7fc6d62f-058a-43ef-a3ac-92e08208a609.png)
+![Monitoring & Control](monitoring & control.png)
 
 ---
 
@@ -57,7 +57,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Document lessons learned**
   - **Transition to ongoing use (BAU)**
 
-![Closure & Optimization](1e77da34-f6d1-4cc4-8cdb-0252f459b753.png)
+![Closure & Optimization](closure & optimization.png)
 
 ---
 
@@ -65,7 +65,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Switch to **Gantt** to visualize **timelines & dependencies**.
 - Spot overlaps, adjust durations, meet deadlines.
 
-![Gantt Chart](a7a0dace-64d3-447f-9135-ea4a950a29d6.png)
+![Gantt Chart](gantt chart.png)
 
 ---
 
@@ -73,7 +73,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - See **capacity vs assigned hours** by assignee.
 - Green = within capacity, Red = overloaded; rebalance as needed.
 
-![Workload View](81d2b4a4-1931-4457-b1a1-1f7162557ae2.png)
+![Workload View](workload view.png)
 
 ---
 
@@ -81,7 +81,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Assignees receive **email notifications** on new tasks & changes.
 - Keeps everyone accountable and in the loop.
 
-![Email Notification](c245fcab-0877-432d-ba25-e6f512a1d407.png)
+![Email Notification](email notifications.png)
 
 ---
 
@@ -89,7 +89,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Use weekly capacity view to manage load.
 - Overloads show with percentages (helpful for reassigning work).
 
-![Capacity Planning](9b942392-fdb0-424a-8279-9051624d9dcb.png)
+![Capacity Planning](weekly or daily capacity planning.png)
 
 ---
 
