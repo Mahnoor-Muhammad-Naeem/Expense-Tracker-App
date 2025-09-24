@@ -11,6 +11,8 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 
 ![Task Creation](task_creation.png)
 
+![Task Creation](task_creation2.png)
+
 ---
 
 ## 2️⃣ Task Priorities, Status & Time Estimates
