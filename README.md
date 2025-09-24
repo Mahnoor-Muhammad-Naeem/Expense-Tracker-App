@@ -26,7 +26,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Due dates feed into workload calculations.
 - Example: “Identify project sponsor” with a **6h** time estimate.
 
-![Assigning Tasks](assign & schedule.png)
+![Assigning Tasks](assign_schedule.png)
 
 ---
 
@@ -37,7 +37,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Confirm access & permissions**
   - **Collect feedback & adjust configuration**
 
-![Implementation Stage](implementation stage.png)
+![Implementation Stage](implementation_stage.png)
 
 ---
 
@@ -47,7 +47,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Assign troubleshooting POC**
   - **Monitor usage & adoption weekly**
 
-![Monitoring & Control](monitoring & control.png)
+![Monitoring & Control](monitoring_control.png)
 
 ---
 
@@ -57,7 +57,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Document lessons learned**
   - **Transition to ongoing use (BAU)**
 
-![Closure & Optimization](closure & optimization.png)
+![Closure & Optimization](closure_optimization.png)
 
 ---
 
@@ -65,7 +65,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Switch to **Gantt** to visualize **timelines & dependencies**.
 - Spot overlaps, adjust durations, meet deadlines.
 
-![Gantt Chart](gantt chart.png)
+![Gantt Chart](gantt_chart_view.png)
 
 ---
 
@@ -73,7 +73,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - See **capacity vs assigned hours** by assignee.
 - Green = within capacity, Red = overloaded; rebalance as needed.
 
-![Workload View](workload view.png)
+![Workload View](workload_view.png)
 
 ---
 
@@ -81,7 +81,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Assignees receive **email notifications** on new tasks & changes.
 - Keeps everyone accountable and in the loop.
 
-![Email Notification](email notifications.png)
+![Email Notification](email_notifications.png)
 
 ---
 
@@ -89,7 +89,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Use weekly capacity view to manage load.
 - Overloads show with percentages (helpful for reassigning work).
 
-![Capacity Planning](weekly or daily capacity planning.png)
+![Capacity Planning](weekly.png)
 
 ---
 
