@@ -19,9 +19,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Use **Priority** (Urgent/High/Normal), **Status** (TO DO / In Progress / Done).
 - Track **Time estimate** vs **Time tracked** to manage capacity.
 
-
 ![Task Creation](task.png)
-<!-- If you have a status/priority screenshot, add it here with the right filename in screenshots/ -->
 
 ---
 
@@ -31,6 +29,18 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Example: “Identify project sponsor” with a **6h** time estimate.
 
 ![Assigning Tasks](assign_schedule.png)
+
+---
+
+### ✅ Task Completion Update
+
+- **Task:** Identity project sponsor and key stakeholders  
+- **Status:** ✅ Completed  
+- **Due Date:** Today  
+- **Completion Date:** Today  
+- **Result:** Task was completed on time as planned.
+
+![Assigning Tasks](complete.png)
 
 ---
 
@@ -101,4 +111,3 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Keep **README.md** and **screenshots/** in the **same folder level**.
 - Filenames in the Markdown must **exactly match** the images in `screenshots/`.
 - If an image doesn’t render on GitHub, confirm the file exists and is committed.
-
