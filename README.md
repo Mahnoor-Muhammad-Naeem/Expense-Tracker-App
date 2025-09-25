@@ -9,9 +9,9 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
 - Add tasks under stages: **Initiation**, **Planning**, **Execution**, **Implementation**, **Monitoring & Control**, **Closure & Optimization**.
 - For each task, set **Assignee**, **Due Date**, **Priority**, **Status**.
 
-![Task Creation](task_creation.png)
+![Task Creation](task1.png)
 
-![Task Creation](task_creation2.png)
+![Task Creation](task2.png)
 
 ---
 
