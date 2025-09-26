@@ -51,7 +51,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Confirm access & permissions**
   - **Collect feedback & adjust configuration**
 
-![Implementation Stage](implementation_stage.png)
+![Implementation_Stage](implementation_monitoring.png)
 
 ---
 
@@ -61,7 +61,7 @@ This guide shows how to create and manage a **Project Plan in ClickUp** using th
   - **Assign troubleshooting POC**
   - **Monitor usage & adoption weekly**
 
-![Monitoring & Control](monitoring_control.png)
+![Monitoring & Control](implementation_monitoring.png)
 
 ---
 
